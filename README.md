@@ -1,3 +1,5 @@
+![Encabezado de mi perfil](./banner.png)
+
 # Smart Training
 Prácticas de los cursos impartidos en línea.
 
