@@ -1,7 +1,8 @@
 ![Encabezado de mi perfil](./banner.png)
 
 # Smart Training
-Prácticas de los cursos impartidos en línea.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=37F7E6&random=false&width=435&lines=Capacitaci%C3%B3n+inteligente+para+nuestra+era...)](https://git.io/typing-svg)
 
 <!---
 tutor-straining/tutor-straining is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
